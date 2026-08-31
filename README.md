@@ -1,5 +1,7 @@
 ### EX9 Preprocessing on Twitter Data using Rapidminer
 ### DATE: 27.08.2026
+### Name: Krishna Kumar R
+### Reg. No: 212223230107
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
 <div align = "justify">
